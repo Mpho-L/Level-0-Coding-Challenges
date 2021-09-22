@@ -1,3 +1,6 @@
-print('hello Mpho')
+def hello(name):
+    return name
+
+print(hello('Mpho'))
 
 
