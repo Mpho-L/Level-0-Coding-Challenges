@@ -1,5 +1,5 @@
 def hello(name):
-    return name
+    return ('Hello '+ name + '!')
 
 print(hello('Mpho'))
 
